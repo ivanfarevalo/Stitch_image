@@ -9,7 +9,7 @@ Stitch 5 sets of images
 
 
 #### How to Run:
-``python3 -d yellowstone5``
+``python3 prog3.py -d yellowstone5``
 
 This program accepts one argument: (directory). “directory”
 is the data directory, 
